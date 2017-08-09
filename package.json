@@ -1,0 +1,15 @@
+{
+  "name": "star_war_movies_app",
+  "version": "1.0.0",
+  "description": "a basic movie app for star war fans",
+  "main": "app.js'",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vaibhav",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4"
+  }
+}
